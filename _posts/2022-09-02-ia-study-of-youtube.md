@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "IA Study of Youtube"
-date:   2022-09-03 20:00:37 +0900
+date:   2022-09-02 20:00:37 +0900
 categories: study
 ---
 
